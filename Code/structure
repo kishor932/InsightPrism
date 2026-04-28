@@ -1,0 +1,13 @@
+src/
+  api/
+  components/
+  hooks/
+  lib/
+  pages/
+    Dashboard.jsx
+    InsightsPage.jsx
+    Landing.jsx
+    UploadPage.jsx
+  utils/
+App.jsx
+main.jsx
